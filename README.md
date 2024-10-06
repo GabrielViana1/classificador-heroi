@@ -48,7 +48,7 @@ O principal objetivo deste projeto foi praticar os conceitos fundamentais de **H
    ```bash
    cd classificador-heroi
 
-   ## 📦 Como Executar o Projeto
+## 📦 Como Executar o Projeto
 
 Abra o arquivo `index.html` no navegador ou utilize uma extensão de servidor local (como **Live Server** no VS Code) para visualizar o projeto.
 
